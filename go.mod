@@ -1,3 +1,3 @@
-module github.com/dangermike/sewers
+module github.com/dangermike/sewer
 
 go 1.17
